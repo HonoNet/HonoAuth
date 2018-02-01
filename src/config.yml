@@ -1,0 +1,18 @@
+Prefix: '&e[&bHonoAuth&e]&f'
+
+Messages:
+  Already: "&cあなたはすでにこのアイテムを取得しています"
+  Done: "&bアイテムを受け取りました"
+  None: "&cコードが見つかりませんでした"
+  Reload: "&bConfig ファイルをリロードしました"
+
+CodeList:
+  iX39pAke:
+    Commands:
+    - 'minecraft:give %player diamond 1'
+    Messages:
+    - '&rメンテナンスのお詫び'
+
+Players:
+  b0bb65a2-832f-4a5d-854e-873b7c4522ed:
+    iX39pAke: true

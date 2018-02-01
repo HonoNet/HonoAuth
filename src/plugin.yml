@@ -1,0 +1,8 @@
+main: net.simplyrin.hononet.auth.Main
+version: 1.0
+name: HonoAuth
+authors: [SimplyRin]
+
+commands:
+  code:
+    usage: /code <args>
